@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A77F3D-6920-E962-7550-A1AD1899C0D7}|VK16K33Test.vcxproj|C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33Test.ino||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F0A77F3D-6920-E962-7550-A1AD1899C0D7}|VK16K33Test.vcxproj|solutionrelative:VK16K33Test.ino||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A77F3D-6920-E962-7550-A1AD1899C0D7}|VK16K33Test.vcxproj|C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0A77F3D-6920-E962-7550-A1AD1899C0D7}|VK16K33Test.vcxproj|solutionrelative:VK16K33.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A77F3D-6920-E962-7550-A1AD1899C0D7}|VK16K33Test.vcxproj|C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33ascii.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0A77F3D-6920-E962-7550-A1AD1899C0D7}|VK16K33Test.vcxproj|solutionrelative:VK16K33ascii.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{27d18bf1-e3dc-4547-90e9-b0929c315f68}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{1d29ac59-0554-4ac0-b774-ff02fc851c7a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{27d18bf1-e3dc-4547-90e9-b0929c315f68}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{db5dd842-578c-4c40-9032-2723f0060557}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cfeb6314-a0bd-4cbf-be4b-03666ccc8d74}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VK16K33.h",
+              "DocumentMoniker": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33.h",
+              "RelativeDocumentMoniker": "VK16K33.h",
+              "ToolTip": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33.h",
+              "RelativeToolTip": "VK16K33.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-03T17:30:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VK16K33ascii.h",
+              "DocumentMoniker": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33ascii.h",
+              "RelativeDocumentMoniker": "VK16K33ascii.h",
+              "ToolTip": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33ascii.h",
+              "RelativeToolTip": "VK16K33ascii.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T10:13:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VK16K33Test.ino",
+              "DocumentMoniker": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33Test.ino",
+              "RelativeDocumentMoniker": "VK16K33Test.ino",
+              "ToolTip": "C:\\Users\\mark\\OneDrive\\Documents\\GitHub\\VK16K33Test\\VK16K33Test.ino",
+              "RelativeToolTip": "VK16K33Test.ino",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASXSURBVDhPdZRbiFVVHMZ/a\u002B3Lucw5W8eZs8dxpts0Rok0ZXSZonTMEnqp6EmCggoqQqEi6iXsQtCFejDqqYKe7K0MuptmYD1kmVlql9GSxjPn0ozOPmfvffZelx4GlaJ\u002B8MHiz1of38N/ffA/rJ2aoptl7DlRd7fu2x9s3bc/2HOi7nazjLVTU/\u002B\u002Bvoi1Vpw\u002Bh2FIoRay5dVX5bNbtgxe99LLV8x046lOriYyY5YD\u002BFLOVjz3wEhfeffexx799slt29rbNm82vVaTZrMJgADoHxzkvqeeJr70ssL0QnTtsSi6N1J6vTImNFh5NgJIhHGlbFZdd9dYtfrmWFD5qvzD9703ntrKfLu9aPja9u180V8rHF1YuLWdpo8buFQgHXEm/z\u002BxFixGO4gfBoqFF8aCYMe6\u002BVbvoU2bkABfL6uJmagz2UziJ6QQE0UpnYIU\u002BOK/VZCCopSOFEw0k/iJmagz\u002BfWymgAQD\u002Bzaw9sHf6oNVvtekY67yXccCSCEAAsWC6ejWrs4P5PSorQ2Wqvt7aj7yF2rV7Wc9MabCQr\u002BDak2D/ueXy04knP6ypxX6SPwfDJt6BkNQOB5nFfpY7RcpuA4JEqhESJXKhwql775M4p\u002Bc7pXXIXxvPuk620ICr687fxzuXP8Qi4f6OfqoRoXBBWORxGB53H3ReNsHB1hzcAyrh8eoiQlR6OIROlS3EvrzfrsTmf89jvcU9Y\u002B7BX8letHVrDpwjHem55mxx9/cmwh4pqwxuTyISaHQiqOw45jf/BVo0kzSbhjbIxWkvBrtCB7vawzUvDfkdpzS0ab0JeSK8Ma\u002B\u002BpNds62OD8IOJXnvP7TEVb2L2V8yRJe//EQvueybmSYnfUG37VbXBkO4kmJ0SZUnluSaZahtEJZMNZiJWhAGIOxFiMl1gosFus4WAvCWLS1WCHRFpQBrRVpliHzJEmsUo1unrN3tsGasMb6FcMc6caUi0UeXHUxh9ptDs/Nc/\u002BqS4i14eMTs9w4uoLLBgbYO9sgVjlGqUaeJImTXD1ppOOstr4/Wc\u002BVtNaycXQF14Y1JpYuZfrkSbYd/pkvGy3O7evjhuUhawYHuCio8v7vx/mgPkucJNp0Ou9Gne5novTMc1hjN4pq9S23v3\u002B44LiMlIoM\u002BD5dpZhJEha0BgSBIxkplehzXP7KMmaShJ7RqPm5uo069yD4xKmu30A3iRcweqUoFFdr1xXzec5MmtLKMlJzdrFTY2hlGTNpynyeowCTJkbNz72fp\u002BnbFd\u002BPnXT355TXTiVaqTmT5ROyWBjCdQVCLBoJgQXs4vc5K8D2UpM3W9/bXvp80XEOR89sxQFYcs4ocaU6a3q9lun1xoXrhcJ1pZD/KJozWK0x3a7Omo0DutN5Hmt2BcePqfjgwUXDeHoaUa1olvZPm6x3WHc7rs3yEKPLWKS1YI3BZhm629Fqbq6Rt5s7TBy/KIz\u002BXPxypNf96CPI88X6AqBUhqAKG28RBEsGEawRnrsO15/AdYawgNEN8vyAzfPdWPazcKrNJx9aogjiGE4X7H\u002ByfBhuuhk838V1SwAolZBnip2fQr3\u002B7xcA/A3WE0yTiP804QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-13T10:11:03.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{ecd1c7b2-646a-41ae-80d4-100194abd55f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecd1c7b2-646a-41ae-80d4-100194abd55f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1d29ac59-0554-4ac0-b774-ff02fc851c7a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{1d29ac59-0554-4ac0-b774-ff02fc851c7a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
